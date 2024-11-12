@@ -49,3 +49,7 @@ STRIPE_SECRET_KEY=sk_test_xxx
 
 STRIPE_WEBHOOK_SECRET=whsec_xxx
 ```
+
+## 支付测试卡
+
+https://docs.stripe.com/testing
